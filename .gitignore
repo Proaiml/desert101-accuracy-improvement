@@ -1,0 +1,22 @@
+# Dataset / Images (resimler hariç tutuldu)
+desert101/
+data/
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Python / Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE & Testing
+.idea/
+.vscode/
+.pytest_cache/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
