@@ -36,3 +36,12 @@ python predict.py klasor/
 ```
 
 Sınıf adları, eğitimdeki `train/` klasör adlarının alfabetik sırasıdır.
+
+## Test
+
+```bash
+pip install pytest
+python -m pytest tests -q
+```
+
+Duman testleri yalnızca CPU kullanır ve birkaç saniyede biter.
